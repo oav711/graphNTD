@@ -5,25 +5,25 @@
   "logo": {
     "file": "",
     "link": "",
-    "text": ""
+    "text": "Otrokov A.V."
   },
   "text": {
     "more": "",
     "intro": "",
-    "title": ""
+    "title": "Граф взаимосвязей нормативно-технической документации для дорожного хозяйства"
   },
   "legend": {
     "edgeLabel": "",
-    "colorLabel": "",
-    "nodeLabel": ""
+    "colorLabel": "Мощность ссылок на другие НТД",
+    "nodeLabel": "НТД"
   },
   "features": {
     "search": true,
-    "groupSelectorAttribute": false,
+    "groupSelectorAttribute": "status",
     "hoverBehavior": "dim"
   },
   "informationPanel": {
-    "groupByEdgeDirection": false,
+    "groupByEdgeDirection": true,
     "imageAttribute": false
   },
   "sigma": {
